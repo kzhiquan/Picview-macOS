@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img height="256" src="https://github.com/kzhiquan/Picview-masOS/blob/main/preview.jpg" />
+<img src="https://github.com/kzhiquan/Picview-macOS/blob/main/preview.jpg" />
 </p>
 
 ---
